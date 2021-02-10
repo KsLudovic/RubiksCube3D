@@ -3,7 +3,7 @@
 to run it, you'll have to download Processing : https://processing.org/download/
 
 
-work in progress : need to export intuitive controls for android version
+work in progress : need to import intuitive controls for android version
 
 play with f, F, b, B, u, U, d, D, l, L, r, R
 
